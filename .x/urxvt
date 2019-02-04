@@ -1,0 +1,16 @@
+!define termfont xft:curie:style=Regular:pixelsize=12:antialias=false
+!define termfont xft:UbuntuMono-R:style=Regular:size=10:antialias=true
+!define termfont xft:cherry-10-r:style=Regular:size=10:antialias=false
+#define termfont xft:scientifica:style=Regular:pixelsize=11:antialias=false
+
+
+URxvt.font:	termfont
+URxvt.boldFont:	termfont
+URxvt.italicFont:	termfont
+URxvt.boldItalicFont:	termfont
+
+URxvt.letterSpace:	1
+URxvt.lineSpace:	0
+
+URxvt.scrollBar:	false
+URxvt.internalBorder:	20

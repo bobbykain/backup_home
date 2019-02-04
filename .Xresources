@@ -1,0 +1,6 @@
+!colors
+#include ".x/colors/skigh"
+#include ".x/clrs"
+
+!programs
+#include ".x/urxvt"
